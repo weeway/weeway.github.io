@@ -118,17 +118,17 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: gitalk 
+  provider: disqus
 
   ## Disqus
   disqus:
-    shortname: # the Disqus shortname for the site
+    shortname: weeway # the Disqus shortname for the site
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
     clientID    : "ea94a439648b95b60041"
-    clientSecret: "e786feacfba7aec88318c61e3fc0f77ae447056c"
+    clientSecret: "ebd78ec0508a1d9766074767db0536e79510ca33"
     repository  : "weeway.github.io"
     owner       : "weeway"
     admin:
